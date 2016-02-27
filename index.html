@@ -1,0 +1,41 @@
+<link href="../src/leaflet-search.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<link href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" rel="stylesheet">
+
+
+<div id="map" style="height:680px; width:860px;"></div>
+<script src="df-geojson.js"></script>
+<script>
+
+var map = L.map('map').setView([47.6031447,-122.3285673], 12);
+
+function onEachFeature(feature, layer) {
+  layer.bindPopup(feature.properties.name);
+  layer.on('click', function (e) {
+      placeName = feature.properties.name
+      localStorage.setItem(placeName, this.getLatLng().toString());
+      console.log(feature.properties.name);
+      });
+    }
+
+L.tileLayer('https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+  id: 'stedy.mck2dne6',
+  accessToken: 'pk.eyJ1Ijoic3RlZHkiLCJhIjoiUU9kOC1xcyJ9.xmKXVS0kLIjF5hR6rBzTCw'
+  }).addTo(map);
+
+
+geojsonLayer = L.geoJson(geojson, {
+      onEachFeature: onEachFeature
+//    onEachFeature: function (feature, layer) {
+//      layer.bindPopup(feature.properties.Municipio);
+//    }
+  });
+map.addLayer(geojsonLayer);
+
+for(var i=0; i < localStorage.length; i++){
+  var propertyName = localStorage.key(i);
+  console.log(i + " : " + propertyName + " = " + localStorage.getItem(propertyName));
+}
+
+</script>
+
