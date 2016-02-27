@@ -4,10 +4,15 @@
 
 
 <div id="map" style="height:680px; width:860px;"></div>
-<script src="df-geojson.js"></script>
+<script src="seattle-parks.geojson"></script>
 <script>
 
 var map = L.map('map').setView([47.6031447,-122.3285673], 12);
+
+L.tileLayer('https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+  id: 'stedy.mck2dne6',
+  accessToken: 'pk.eyJ1Ijoic3RlZHkiLCJhIjoiUU9kOC1xcyJ9.xmKXVS0kLIjF5hR6rBzTCw'
+  }).addTo(map);
 
 function onEachFeature(feature, layer) {
   layer.bindPopup(feature.properties.name);
@@ -18,13 +23,14 @@ function onEachFeature(feature, layer) {
       });
     }
 
-L.tileLayer('https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-  id: 'stedy.mck2dne6',
-  accessToken: 'pk.eyJ1Ijoic3RlZHkiLCJhIjoiUU9kOC1xcyJ9.xmKXVS0kLIjF5hR6rBzTCw'
-  }).addTo(map);
-
-
-geojsonLayer = L.geoJson(geojson, {
+  geojsonLayer = L.geoJson(geojson, {
+      style: function(feature) {
+        return {color: feature.properties.visit};
+      },
+      pointToLayer: function(feature, latlng) {
+        var currentZoom = map.getZoom();
+        return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.85});
+      },
       onEachFeature: onEachFeature
 //    onEachFeature: function (feature, layer) {
 //      layer.bindPopup(feature.properties.Municipio);
