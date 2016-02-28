@@ -7,6 +7,19 @@
 <script src="seattle-parks.geojson"></script>
 <script>
 
+  for(var i=0; i < geojson.features.length; i++){
+    parkName = geojson.features[i]['properties']['name']
+    if(parkName in localStorage){
+      console.log(parkName)
+    }
+  }
+
+//for(var i=0; i < localStorage.length; i++){
+//  var propertyName = localStorage.key(i);
+//  console.log(i + " : " + propertyName + " = " + localStorage.getItem(propertyName));
+//if(propertyName geojson.feature.properties.visit[i]
+//}
+
 var map = L.map('map').setView([47.6031447,-122.3285673], 12);
 
 L.tileLayer('https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
@@ -37,11 +50,6 @@ function onEachFeature(feature, layer) {
 //    }
   });
 map.addLayer(geojsonLayer);
-
-for(var i=0; i < localStorage.length; i++){
-  var propertyName = localStorage.key(i);
-  console.log(i + " : " + propertyName + " = " + localStorage.getItem(propertyName));
-}
 
 </script>
 
