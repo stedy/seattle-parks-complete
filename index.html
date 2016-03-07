@@ -13,10 +13,8 @@
 <meta name="author" content="">
 <link rel="icon" href="../../favicon.ico">
 
-<title>Fixed Top Navbar Example for Bootstrap</title>
+<title>Seattle Parks Complete</title>
 
-
-<!-- Custom styles for this template -->
 <link href="parks_style.css" rel="stylesheet">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -31,20 +29,13 @@
 <!-- Fixed navbar -->
 <nav class="navbar navbar-default navbar-fixed-top">
 <div class="container">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-  <a class="navbar-brand" href="#">Seattle Complete Parks</a>
-</div>
-<ul class="nav navbar-nav">
-  <li class="active"><a href="#">Home</a></li>
-<li><a href="#" data-toggle="modal" data-target="#aboutModal">About</a></li>
-</ul>
-</div>
+  <div class="navbar-header">
+    <span class="icon-bar"></span>
+  Seattle Complete Parks
+  </div>
+  <p class="pull-right">
+  <a href="#" data-toggle="modal" data-target="#aboutModal">About</a></p>
+  </div>
 </nav>
 
 <div class="container">
@@ -58,6 +49,7 @@
       <div class="modal-body">
         <p>This is a map of all parks recognized by the City of Seattle</p>
         <p>If you have been to a particular park, just click on it and the map will automagically remember your visit.</p>
+        <p>Official city listing of parks <a href="http://www.seattle.gov/parks/listall.asp">here</a>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -97,7 +89,6 @@ function onEachFeature(feature, layer) {
       placeName = feature.properties.name
       localStorage.setItem(placeName, this.getLatLng().toString());
       this.setStyle({fillColor: '#89959C', stroke: '#000000'});
-      console.log(feature.properties.name);
       });
     }
 
