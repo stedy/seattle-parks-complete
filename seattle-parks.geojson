@@ -5,7 +5,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "12th West & West Howe Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -16,7 +16,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "14th Avenue NW Boat Ramp",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "3001 E Madison",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +38,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "32nd Ave W",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +49,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "6th Avenue NW Pocket Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +60,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "A. B. Ernst Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Adams Street Boat Ramp",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +82,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Albert Davis Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +93,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Alki Beach Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -104,7 +104,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Alki Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +115,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Alvin Larkins Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Amy Yee Tennis Center",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -137,7 +137,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Andover Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -148,7 +148,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Arapahoe Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Arroyos Natural Area",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -170,7 +170,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Atlantic City Boat Ramp",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -181,7 +181,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Atlantic Street Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -192,7 +192,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bagley Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -203,7 +203,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Baker Park on Crown Hill",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +214,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ballard Commons Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +225,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ballard Corners Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -236,7 +236,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ballard Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +247,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Banner Way Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -258,7 +258,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bar-S Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -269,7 +269,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bayview-Kinnear (Lower Kerry Park)",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -280,7 +280,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bayview Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +291,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Beacon Hill Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -302,7 +302,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Beacon Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +313,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Beaver Pond Natural Area on Thornton Creek",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +324,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Beck Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +335,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Beer Sheva Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -346,7 +346,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bellevue Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -357,7 +357,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bell Street Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +368,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Belltown Cottage Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -379,7 +379,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Belmont Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -390,7 +390,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Belvedere Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -401,7 +401,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Belvoir Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -412,7 +412,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Benefit Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +423,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Benvenuto Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -434,7 +434,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bergen Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -445,7 +445,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "B.F. Day Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +456,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bhy Kracke Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +467,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bitter Lake Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -478,7 +478,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bitter Lake Reservoir Open Space",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -489,7 +489,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Blaine Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -500,7 +500,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Blue Dog Pond",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -511,7 +511,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Blue Ridge Circle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -522,7 +522,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Blue Ridge Places",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -533,7 +533,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Boren Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -544,7 +544,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Boren Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -555,7 +555,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Boylston Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -566,7 +566,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bradner Gardens Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -577,7 +577,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Brighton Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -588,7 +588,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Broadview Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +599,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Bryant Neighborhood Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -610,7 +610,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Burke-Gilman Playground Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Burke-Gilman Trail",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -632,7 +632,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cal Anderson Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -643,7 +643,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "California Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +654,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Camp Long",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -665,7 +665,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Carkeek Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -676,7 +676,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Carleton Center",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -687,7 +687,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Carleton Highlands",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -698,7 +698,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cascade Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -709,7 +709,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cascade Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -720,7 +720,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cedar Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -731,7 +731,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cesar Chavez Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -742,7 +742,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Charles Richey Sr Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -753,7 +753,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cheasty Boulevard",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -764,7 +764,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cheasty GS: Cheasty Blvd",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +775,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Chinook Beach Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +786,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Christie Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -797,7 +797,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "City Hall Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -808,7 +808,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cleveland Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -819,7 +819,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Coe Play Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -830,7 +830,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "College Street Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -841,7 +841,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "College Street Ravine",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -852,7 +852,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Colman Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -863,7 +863,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Colman Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -874,7 +874,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Columbia Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -885,7 +885,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Commodore Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -896,7 +896,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Condon Way Centerstrip",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -907,7 +907,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Corliss Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -918,7 +918,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cormorant Cove",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -929,7 +929,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cottage Grove Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -940,7 +940,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Counterbalance Park: An Urban Oasis",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +951,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Cowen Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -962,7 +962,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Crescent Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -973,7 +973,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Crown Hill Glen",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -984,7 +984,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Crown Hill Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -995,7 +995,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Daejeon Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1006,7 +1006,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Dahl (Waldo J.) Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1017,7 +1017,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Dakota Place Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1028,7 +1028,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "David Rodgers Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1039,7 +1039,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Day Street Boat Ramp",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1050,7 +1050,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Dearborn Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1061,7 +1061,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Delridge Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1072,7 +1072,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Denny Blaine Lake Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1083,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Denny Blaine Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1094,7 +1094,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Denny Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1105,7 +1105,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Denny Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1116,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Discovery Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1127,7 +1127,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Don Armeni Boat Ramp",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1138,7 +1138,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Dr. Blanche Lavizzo Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1149,7 +1149,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Dr. Jose Rizal Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1160,7 +1160,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Duwamish Waterway Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1171,7 +1171,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Eastlake Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1182,7 +1182,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "East Montlake Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1193,7 +1193,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Eastmont Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1204,7 +1204,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "East Portal Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1215,7 +1215,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "East Queen Anne Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "E.C. Hughes Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1237,7 +1237,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Eddie Vine Boat Ramp",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1248,7 +1248,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ella Bailey Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1259,7 +1259,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Emma Schmitz Memorial Overlook",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1270,7 +1270,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Endolyne Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1281,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ercolini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1292,7 +1292,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fairmount Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1303,7 +1303,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fairview Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1314,7 +1314,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fairview Walkway",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1325,7 +1325,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fauntleroy Creek Ravine",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1336,7 +1336,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fauntleroy Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1347,7 +1347,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fauntleroy Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1358,7 +1358,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ferdinand Street Boat Launch",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1369,7 +1369,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Firehouse Mini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1380,7 +1380,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "First Hill Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1391,7 +1391,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fletcher Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1402,7 +1402,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Flo Ware Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1413,7 +1413,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Freeway Park - Jim Ellis Freeway Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1424,7 +1424,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fremont Canal Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1435,7 +1435,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Fremont Peak Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1446,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Frink Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1457,7 +1457,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Froula Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1468,7 +1468,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Garfield Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1479,7 +1479,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Gas Works Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1490,7 +1490,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Genesee Park and Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1501,7 +1501,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Georgetown Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1512,7 +1512,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Gerber Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1523,7 +1523,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Gilman Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1534,7 +1534,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Golden Gardens Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1545,7 +1545,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Grand Army of the Republic Cemetery",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1556,7 +1556,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Green Lake Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1567,7 +1567,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Greenwood Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1578,7 +1578,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Greenwood Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1589,7 +1589,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Greg Davis Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1600,7 +1600,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Hamilton Viewpoint Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1611,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Harborview Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1622,7 +1622,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Harrison Ridge Greenbelt",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1633,7 +1633,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Harvard-Miller/Roanoke Annex",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1644,7 +1644,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Herring's House Park (Tualtwx)",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1655,7 +1655,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Hiawatha Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1666,7 +1666,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Highland Drive Parkway",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1677,7 +1677,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Highland Park Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1688,7 +1688,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Highland Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1699,7 +1699,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Hing Hay Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1710,7 +1710,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Hitt's Hill Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1721,7 +1721,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Homer Harris Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1732,7 +1732,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Horiuchi Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1743,7 +1743,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Horton Hil Corridor",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1754,7 +1754,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Howell Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1765,7 +1765,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Hubbard Homestead",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1776,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Hunter Boulevard",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1787,7 +1787,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Hutchinson Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1798,7 +1798,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Hyde Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1809,7 +1809,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "I-5 Colonnade",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1820,7 +1820,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Interbay Athletic Complex",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1831,7 +1831,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Interbay Golf",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1842,7 +1842,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Interbay P-patch",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1853,7 +1853,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Interlaken Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1864,7 +1864,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "International Childrens Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1875,7 +1875,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Inverness Ravine Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1886,7 +1886,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Jackson Park Golf Course",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1897,7 +1897,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Japanese Garden",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1908,7 +1908,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Jefferson Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1919,7 +1919,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Jefferson Park Golf Course",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1930,7 +1930,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Jimi Hendrix Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +1941,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "John C. Little, Sr. Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1952,7 +1952,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Judge Charles M. Stokes OverlK",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1963,7 +1963,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Judkins Park and Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1974,7 +1974,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Junction Plaza",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1985,7 +1985,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Katie Black's Garden",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -1996,7 +1996,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Kerry Park (Franklin Place)",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2007,7 +2007,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Keystone Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2018,7 +2018,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Kilbourne Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2029,7 +2029,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Kingfisher Natural Area on Thornton Creek",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2040,7 +2040,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Kinnear Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2051,7 +2051,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Kirke Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2062,7 +2062,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Kiwanis Memorial Preserve Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2073,7 +2073,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Kobe Terrace",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2084,7 +2084,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Kubota Garden",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2095,7 +2095,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lake City Memorial Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2106,7 +2106,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lake City Mini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2117,7 +2117,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lake People Park (Xacua'bs)",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2128,7 +2128,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lakeridge Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2139,7 +2139,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lakeridge Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2150,7 +2150,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lake Union Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2161,7 +2161,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lakeview Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2172,7 +2172,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lakeview Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2183,7 +2183,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lake Washington Boulevard",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2194,7 +2194,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lakewood Moorage",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2205,7 +2205,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lakewood Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2216,7 +2216,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lakewood Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2227,7 +2227,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lambert Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2238,7 +2238,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Landing Parkway",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2249,7 +2249,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Laurelhurst Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2260,7 +2260,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Laurelhurst Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2271,7 +2271,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "LaVilla Meadows Natural Area on Thornton Creek",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2282,7 +2282,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lawton Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2293,7 +2293,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Leschi-Lake Dell Natural Area",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2304,7 +2304,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Leschi Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2315,7 +2315,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lewis Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2326,7 +2326,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Licorice Fern Natural Area on Thornton Creek",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2337,7 +2337,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Licton Springs Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2348,7 +2348,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lincoln Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2359,7 +2359,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Linden Orchard Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2370,7 +2370,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Little Brook Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2381,7 +2381,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Llandover Woods Greenspace",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2392,7 +2392,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Longfellow Creek GS: North",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2403,7 +2403,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lowman Beach Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2414,7 +2414,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Loyal Heights Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2425,7 +2425,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Lynn Street Mini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2436,7 +2436,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "MacLean Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2447,7 +2447,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Madison Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2458,7 +2458,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Madison Park North Beach",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2469,7 +2469,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Madrona Briar Patch",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2480,7 +2480,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Madrona Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2491,7 +2491,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Madrona Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2502,7 +2502,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Madrona Ravine",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2513,7 +2513,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Magnolia Greenbelt",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2524,7 +2524,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Magnolia Manor Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2535,7 +2535,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Magnolia Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2546,7 +2546,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Magnolia Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2557,7 +2557,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Maple Leaf Community Garden",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2568,7 +2568,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Maple Leaf Reservoir Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2579,7 +2579,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Maple School Ravine",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2590,7 +2590,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Maple Wood Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2601,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Marra-Desimone Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2612,7 +2612,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Marshall Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2623,7 +2623,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Martha Washington Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2634,7 +2634,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Martin Luther King JR Memorial",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2645,7 +2645,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Marvin's Garden",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2656,7 +2656,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Matthews Beach Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2667,7 +2667,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Mayfair Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2678,7 +2678,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "McClellan Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2689,7 +2689,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "McCurdy (Horace) Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2700,7 +2700,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "McGilvra Boulevard",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2711,7 +2711,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "McGilvra Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2722,7 +2722,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "McGraw Square",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2733,7 +2733,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Meadowbrook Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2744,7 +2744,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Me-Kwa-Mooks Natural Area",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2755,7 +2755,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Me-Kwa-Mooks Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2766,7 +2766,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Meridian Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2777,7 +2777,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Miller Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2788,7 +2788,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Miller Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2799,7 +2799,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Mineral Springs Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2810,7 +2810,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Mock Creek Ravine",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2821,7 +2821,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Montlake Boulevard",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2832,7 +2832,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Montlake Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2843,7 +2843,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Morgan Junction",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2854,7 +2854,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Mount Baker Boulevard",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2865,7 +2865,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Mount Baker Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2876,7 +2876,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Mount Claire Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2887,7 +2887,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Mt Baker Ridge Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2898,7 +2898,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Myrtle Edwards Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2909,7 +2909,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Myrtle Reservoir",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2920,7 +2920,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Nantes Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2931,7 +2931,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Nathan Hale Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2942,7 +2942,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "NE 60th Street Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2953,7 +2953,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Nora's Woods",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2964,7 +2964,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Northacres Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2975,7 +2975,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "North Beach Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2986,7 +2986,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Northeast Queen Anne Greenbelt",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -2997,7 +2997,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Northgate Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3008,7 +3008,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Northlake Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3019,7 +3019,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "North Passage Point Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3030,7 +3030,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Northwest 60th Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3041,7 +3041,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Observatory Courts",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3052,7 +3052,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Occidental Square",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3063,7 +3063,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Olympic Sculpture Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3074,7 +3074,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Open Water Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3085,7 +3085,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Orchard Street Ravine",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3096,7 +3096,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Othello Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3107,7 +3107,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Oxbow Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3118,7 +3118,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Park Home Circle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3129,7 +3129,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Parkmont Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3140,7 +3140,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Parsons Gardens",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3151,7 +3151,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Peace Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3162,7 +3162,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Pelly Place Natural Area",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3173,7 +3173,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Peppi's Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3184,7 +3184,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Picardo (Rainie) P-Patch",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3195,7 +3195,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Piers 62 and 63",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3206,7 +3206,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Pigeon Point Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3217,7 +3217,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Pinehurst Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3228,7 +3228,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Pinehurst Pocket Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3239,7 +3239,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Pioneer Square",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3250,7 +3250,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Pipers Creek Natural Area",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3261,7 +3261,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Plum Tree Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3272,7 +3272,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Plymouth Pillars Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3283,7 +3283,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Powell Barnett Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3294,7 +3294,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Pratt Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3305,7 +3305,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Prefontaine Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3316,7 +3316,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Prentis I. Frazier Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3327,7 +3327,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Pritchard Island Beach",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3338,7 +3338,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Puget Boulevard Commons",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3349,7 +3349,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Puget Creek Greenspace",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3360,7 +3360,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Puget Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3371,7 +3371,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Puget Ridge Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3382,7 +3382,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Queen Anne Bowl Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3393,7 +3393,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Rainbow Point",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3404,7 +3404,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Rainier Beach Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3415,7 +3415,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Rainier Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3426,7 +3426,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Rainier Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3437,7 +3437,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ravenna Boulevard",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3448,7 +3448,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ravenna-Eckstein Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3459,7 +3459,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ravenna Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3470,7 +3470,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ravenna Park Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3481,7 +3481,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ravenna Ravine",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3492,7 +3492,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ravenna Woods",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3503,7 +3503,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Regrade Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3514,7 +3514,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Riverview Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3525,7 +3525,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Roanoke Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3536,7 +3536,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Roanoke Street Mini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3547,7 +3547,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Rogers Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3558,7 +3558,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ross Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3569,7 +3569,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Rotary Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3580,7 +3580,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Roxhill Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +3591,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sacajawea Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3602,7 +3602,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Salmon Bay Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3613,7 +3613,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sam Smith Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3624,7 +3624,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sandel Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3635,7 +3635,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Schmitz Boulevard",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3646,7 +3646,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Schmitz Preserve Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3657,7 +3657,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Seacrest Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3668,7 +3668,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Seola Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3679,7 +3679,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Seven Hills Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3690,7 +3690,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Seward Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3701,7 +3701,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sierra Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3712,7 +3712,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Smith Cove Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3723,7 +3723,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Solstice Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3734,7 +3734,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Soundview Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3745,7 +3745,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Soundview Terrace",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3756,7 +3756,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "South Park Meadow",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3767,7 +3767,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "South Park Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3778,7 +3778,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "South Passage Point Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3789,7 +3789,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Spring Street Mini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3800,7 +3800,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Spruce Street Mini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3811,7 +3811,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Stan Sayres Memorial Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3822,7 +3822,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Stevens Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3833,7 +3833,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Stevens Triangle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3844,7 +3844,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "St. Marks Greenbelt",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3855,7 +3855,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sturgus Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3866,7 +3866,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sturtevant Ravine",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3877,7 +3877,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Summit Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3888,7 +3888,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Summit Slope Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3899,7 +3899,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sunnyside Ave N Boat Ramp",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3910,7 +3910,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sunset Hill Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3921,7 +3921,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Sunset Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3932,7 +3932,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "SW Queen Anne Greenbelt",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3943,7 +3943,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Tashkent Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3954,7 +3954,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Terry Pettus Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3965,7 +3965,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Thayer Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3976,7 +3976,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Thomas C. Wales Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3987,7 +3987,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Thomas Street Mini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -3998,7 +3998,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Thorndyke Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4009,7 +4009,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Thornton Creek Park #1",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4020,7 +4020,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Thyme Patch Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4031,7 +4031,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Tilikum Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4042,7 +4042,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Trolley Hill Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4053,7 +4053,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "T.T. Minor Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4064,7 +4064,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Twelfth Avenue South Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4075,7 +4075,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Union Station Square",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4086,7 +4086,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "University Circle",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4097,7 +4097,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "University Lake Shore Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4108,7 +4108,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "University Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4119,7 +4119,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ursula Judkins Viewpoint",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4130,7 +4130,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Van Asselt Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4141,7 +4141,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Victor Steinbrueck Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4152,7 +4152,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Victory Creek Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4163,7 +4163,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Victory Heights Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4174,7 +4174,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "View Ridge Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4185,7 +4185,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Viretta Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4196,7 +4196,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Virgil Flaim Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4207,7 +4207,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Volunteer Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4218,7 +4218,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Volunteer Park Conservatory",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4229,7 +4229,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Wallingford Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4240,7 +4240,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Wallingford Steps",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4251,7 +4251,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Walt Hundley Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4262,7 +4262,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Ward Springs Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4273,7 +4273,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Warren G. Magnuson Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4284,7 +4284,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Washington Park and Arboretum",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4295,7 +4295,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Washington Park Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4306,7 +4306,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Washington Street Boat Landing",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4317,7 +4317,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Waterfront Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4328,7 +4328,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Weather Watch Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4339,7 +4339,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Webster Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4350,7 +4350,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Wedgwood Square",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4361,7 +4361,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Westcrest Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4372,7 +4372,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "West Duwamish GS: Puget Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4383,7 +4383,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "West Ewing Mini Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4394,7 +4394,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Westlake Greenbelt",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4405,7 +4405,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Westlake Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4416,7 +4416,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Westlake Square",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4427,7 +4427,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "West Montlake Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4438,7 +4438,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "West Queen Anne Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4449,7 +4449,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "West Seattle Golf Course",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4460,7 +4460,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "West Seattle Stadium",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4471,7 +4471,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "William Grose Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4482,7 +4482,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Williams Place",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4493,7 +4493,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Wolf Creek Ravine Natural Area",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4504,7 +4504,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Woodland Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4515,7 +4515,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Woodland Park Rose Garden",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4526,7 +4526,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Woodland Park Zoo",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4537,7 +4537,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "Yesler Playfield",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4548,7 +4548,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "York Park",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
@@ -4559,7 +4559,7 @@ var geojson = {
       "type": "Feature",
       "properties": {
         "name": "York Playground",
-        "visit": "#FF5500"
+        "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
