@@ -68,7 +68,7 @@
       <h4 class="modal-title">Your Progress thus far</h4>
       </div>
       <div class="modal-body">
-        <p> You have been to parks <h1 id="myModalLabel"></h1>recognized by the City of Seattle</p>
+        <p> You have been to <h2 id="myModalLabel"></h2> of the parks recognized by the City of Seattle</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -90,7 +90,7 @@ for(var i=0; i < geojson.features.length; i++){
       visitedCount++;
     }
   }
-document.getElementById("myModalLabel").innerHTML = visitedCount;
+  document.getElementById("myModalLabel").innerHTML = parseFloat(visitedCount/419 * 100).toFixed(2) + '%' ;
 
 var map = L.map('map').setView([47.6031447,-122.3285673], 12);
 
