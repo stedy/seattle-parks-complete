@@ -4,12 +4,12 @@ var geojson = {
     {
       "type": "Feature",
       "properties": {
-        "name": "12th West & West Howe Park",
+        "name": "12th Ave. Square Park",
         "visit": "#8EDD65"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.372985,47.636097]
+        "coordinates": [-122.3164,47.6073]
       }
     },
     {

@@ -5,6 +5,7 @@ body {
   html, body, #map {
   height: 100%;
   width: 100%;
+  padding: 22px 0px 0px 0px;
 }
 
 .navbar-fixed-top {
