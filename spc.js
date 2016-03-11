@@ -41,10 +41,16 @@ function onEachFeature(feature, layer) {
             this.closePopup();
             });
   layer.on('click', function (e) {
-      placeName = feature.properties.name
-      localStorage.setItem(placeName, this.getLatLng().toString());
-      this.setStyle({fillColor: '#89959C', stroke: '#000000'});
-      visitedCount++;
+      placeName = feature.properties.name;
+      if(placeName in localStorage){
+        localStorage.removeItem(placeName);
+        this.setStyle({fillColor: '#8EDD65', stroke: '#8EDD65'});
+        visitedCount--;
+      } else { 
+        localStorage.setItem(placeName, this.getLatLng().toString());
+        this.setStyle({fillColor: '#89959C', stroke: '#000000'});
+        visitedCount++; 
+      }
       updateProgress();
       });
     }
