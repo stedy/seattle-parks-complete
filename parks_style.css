@@ -19,3 +19,7 @@ body {
   background-color: #02599d;
   color: #ffffff;
 }
+
+.leaflet-popup-tip-container {
+  height: 10px;
+}

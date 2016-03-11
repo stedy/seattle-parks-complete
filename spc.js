@@ -17,7 +17,10 @@ L.tileLayer('https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   }).addTo(map);
 
 function onEachFeature(feature, layer) {
-  layer.bindPopup(feature.properties.name);
+  layer.bindPopup(feature.properties.name, {
+    closeButton: false,
+    offset: L.point(0, -10)
+  });
   layer.on('mouseover', function (e) {
             this.openPopup();
             });
