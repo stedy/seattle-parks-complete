@@ -8,25 +8,24 @@
 <meta name="description" content="">
 
 <link rel="icon" href="../../favicon.ico">
-<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
-<link href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" rel="stylesheet">
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://unpkg.com/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
 
 <title>Seattle Parks Complete</title>
 
 <link href="parks_style.css" rel="stylesheet">
 
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
 </head>
 
 <body>
 
 <!-- Fixed navbar -->
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light bg-med">
 <div class="container">
   <div class="navbar-header">
     <span class="icon-bar"></span>
@@ -34,7 +33,6 @@
   </div>
 <ul class="nav navbar-nav navbar-right">
 <li><a href="#" data-toggle="modal" data-target="#progressModal">Your Progress</a></li>
-<li><a href="#" data-toggle="modal" data-target="#aboutModal">About</a></li>
 </ul>
 
 </div>
@@ -42,24 +40,6 @@
 
 <div class="container">
 <!-- Modal -->
-<div id="aboutModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-      <h4 class="modal-title">About this site</h4>
-      </div>
-      <div class="modal-body">
-        <p>This is a map of all parks recognized by the City of Seattle</p>
-        <p>If you have been to a particular park, just click on it and the map will automagically remember your visit.</p>
-        <p>Official city listing of parks <a href="http://www.seattle.gov/parks/listall.asp">here</a>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <div id="progressModal" class="modal fade" role="dialog">
   <div class="modal-dialog">
@@ -69,6 +49,7 @@
       </div>
       <div class="modal-body">
         <p> You have been to <h2 id="myModalLabel"></h2> of the parks recognized by the City of Seattle</p>
+        <p> Official city listing of all parks <a href="https://www.seattle.gov/parks/find/parks/">here</a>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -80,7 +61,7 @@
 
 <div id="map"></div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script src="seattle-parks.geojson"></script>
 <script src="spc.js"></script>
 </body>

@@ -12,9 +12,8 @@ updateProgress();
 
 var map = L.map('map').setView([47.6031447,-122.3285673], 12);
 
-L.tileLayer('https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-  id: 'stedy.mck2dne6',
-  accessToken: 'pk.eyJ1Ijoic3RlZHkiLCJhIjoiUU9kOC1xcyJ9.xmKXVS0kLIjF5hR6rBzTCw'
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
 
 function getProgress(numOfParks, visited) {
@@ -46,10 +45,10 @@ function onEachFeature(feature, layer) {
         localStorage.removeItem(placeName);
         this.setStyle({fillColor: '#8EDD65', stroke: '#8EDD65'});
         visitedCount--;
-      } else { 
+      } else {
         localStorage.setItem(placeName, this.getLatLng().toString());
         this.setStyle({fillColor: '#89959C', stroke: '#000000'});
-        visitedCount++; 
+        visitedCount++;
       }
       updateProgress();
       });
